@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320217009333",
+    "project_id": "majdi-ad817",
+    "storage_bucket": "majdi-ad817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320217009333:android:01347902302483589802fc",
+        "android_client_info": {
+          "package_name": "com.example.p1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZtkMlSJ8Cdk4_juLwy1Qcguo7tx3Hx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
